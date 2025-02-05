@@ -1,4 +1,4 @@
-####Profit Visualization of Sales Over a Year - Power BI Project
+# Profit Visualization of Sales Over a Year - Power BI Project
 Overview
 This Power BI project provides a comprehensive analysis of sales data, focusing on visualizing the profit trends over the course of a year. The report allows users to track profit performance, identify patterns, and make data-driven decisions based on seasonal trends, regional performance, and other relevant factors.
 
